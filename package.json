@@ -3,10 +3,17 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
+<<<<<<< Updated upstream
   "homepage": "https://gymmish.github.io/goit-08-Js",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-08-Js"
+=======
+  "homepage": "https://gymmish.github.io/js-hw-08",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /js-hw-08/"
+>>>>>>> Stashed changes
   },
   "repository": {
     "type": "git",
